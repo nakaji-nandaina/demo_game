@@ -2,7 +2,10 @@
 
 https://nakaji-nandaina.github.io/demo_game/
 
-静的なGithub.ioで公開しているので、セーブ機能は使えません。（と思っていましたが、なぜか使えました。理由教えて）
+戦闘部分のみのデモです。
+拠点左上からダンジョンに入れます。
+
+静的なGithub.ioで公開しているので、セーブ機能は使えません。（と思っていましたが、なぜか使えました。ローカルストレージ使ってるっぽい？）
 
 操作方法については[こちら](https://github.com/nakaji-nandaina/Unity2DActionGame)をご覧ください。
 
